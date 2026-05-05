@@ -13,9 +13,9 @@ Test your memory skills by repeating the sequence of colours shown by the game!
 5. if you click the wrong colour, the game ends.
 
 # Technologies Used
-HTML
-CSS
-JavaScript
+- HTML  
+- CSS  
+- JavaScript
 
 # Acknowledgements
 Inspired by the classic Simon Says memory game.
